@@ -1,4 +1,9 @@
-git add *
+# list of commande that you need
+git init
+git add file 
 git commit -m "msg"
-git remote add origin https://github.com/gigsim/Docker.git
+git status
 git push -u origin master
+
+# change the projet
+git remote add origin https://github.com/gigsim/test.git
