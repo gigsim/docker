@@ -1,0 +1,4 @@
+# if file : Dockerfile
+docker build -t nom_docker .
+
+# if file : docker-compose.yml
